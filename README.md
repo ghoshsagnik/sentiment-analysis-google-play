@@ -47,3 +47,5 @@ This application consists of two components:
 ## Conclusion
 This project leverages ML, web scraping, and web development to automate review sentiment analysis. Future improvements may include scalability enhancements and multilingual support.
 
+## Important Note
+This project is for research and educational purposes only. The sentiment analysis results are based on AI predictions and may not always be 100% accurate. Users should interpret the results with caution and not rely solely on them for critical decisions.
