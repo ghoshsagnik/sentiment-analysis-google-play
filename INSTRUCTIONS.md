@@ -1,5 +1,6 @@
 # Requirements
 
 ### 1. Create an Ngrok account
-- **https://ngrok.com/**
-
+- **SignUp on https://ngrok.com/**
+- **This will give an authentication key**
+- **Paste the Authentication Key in **
