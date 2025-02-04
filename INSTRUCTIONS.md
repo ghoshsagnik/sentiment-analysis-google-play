@@ -12,7 +12,8 @@
 - **Run the Flask App**
   After installing libraries the execution continues to run and this shows
   
-  ![Alt text](https://github.com/user-attachments/assets/900d6cc3-131f-4803-97fe-fda7c2a53d15)
+![Screenshot 2025-02-04 205744](https://github.com/user-attachments/assets/969c3ad9-972d-43e8-84fd-ad706de44ec5)
+
 
 - **Copy the ```python ```**
 
