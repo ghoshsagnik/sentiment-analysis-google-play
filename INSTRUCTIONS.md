@@ -16,5 +16,5 @@
 
 
 - **Copy the link pointed to in the image**
-- **Paste the link in 
+- **Paste the link in Frontend Webpage/sentiment_analysis.html
   ```const publicUrl = "Update with your ngrok public URL"; ```
