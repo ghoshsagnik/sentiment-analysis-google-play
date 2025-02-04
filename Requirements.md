@@ -5,4 +5,6 @@
 - **Google Colab (*preferable as it gives free ram and memory for fast computation)**
 - **Jupyter Notebook**
 
-### 2. A Ngrok account
+### 2. A web browser
+
+### 3. A Ngrok account
