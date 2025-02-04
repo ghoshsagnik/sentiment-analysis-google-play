@@ -16,10 +16,10 @@
 
 
 - **Copy the link pointed to in the image**
-- **Paste the link in Frontend Webpage/sentiment_analysis.html**
+- **Open the html file in any IDE and Paste the link in Frontend Webpage/sentiment_analysis.html**
   
   ```const publicUrl = "Update with your ngrok public URL"; ```
   
   Note: I have used Ngrok. You can use ```Streamlit```
   
-### 3. 
+### 3. Double
