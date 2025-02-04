@@ -15,7 +15,5 @@
 ![Screenshot 2025-02-04 205744](https://github.com/user-attachments/assets/969c3ad9-972d-43e8-84fd-ad706de44ec5)
 
 
-- **Copy the ```python ```**
-
-- 
-
+- **Copy the link pointed to in the image**
+- **Paste the link in**
