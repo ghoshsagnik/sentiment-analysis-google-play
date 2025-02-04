@@ -16,4 +16,5 @@
 
 
 - **Copy the link pointed to in the image**
-- **Paste the link in ```const publicUrl = "Update with your ngrok public URL"; ```**
+- **Paste the link in 
+  ```const publicUrl = "Update with your ngrok public URL"; ```
