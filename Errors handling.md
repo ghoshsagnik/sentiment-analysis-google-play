@@ -8,3 +8,4 @@
 
 ```pip install tensorflow```
 
+### Write these codes in the previous cell in the python environment
