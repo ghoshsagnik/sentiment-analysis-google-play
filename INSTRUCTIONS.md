@@ -11,7 +11,8 @@
 ### 2. Running the flask app and Using the public URL
 - **Run the Flask App**
   After installing libraries the execution continues to run and this shows
-  [Screenshot 2025-02-04 205744](https://github.com/user-attachments/assets/900d6cc3-131f-4803-97fe-fda7c2a53d15)
+  
+  ![Alt text][Screenshot 2025-02-04 205744](https://github.com/user-attachments/assets/900d6cc3-131f-4803-97fe-fda7c2a53d15)
 
 - **Copy the ```python ```**
 
