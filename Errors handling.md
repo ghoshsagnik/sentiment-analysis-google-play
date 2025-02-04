@@ -2,6 +2,5 @@
 
 ### IF THIS ERROR OCCURS
 
-```python pip install --upgrade tensorflow transformers
-    pip install tensorflow==2.12 transformers==4.31
-```
+```python pip install --upgrade tensorflow transformers```
+```python pip install tensorflow==2.12 transformers==4.31```
