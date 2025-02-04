@@ -14,7 +14,7 @@
   
 ![Screenshot 2025-02-04 205744](https://github.com/user-attachments/assets/969c3ad9-972d-43e8-84fd-ad706de44ec5)
 
-- *Flask App should run in background*
+Note: *Flask App should run in background*
 - **Copy the link pointed to in the image**
 - **Open the html file in any IDE**
 - Paste the link in Frontend Webpage/sentiment_analysis.html**
