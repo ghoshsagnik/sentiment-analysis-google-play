@@ -29,5 +29,5 @@
 
 ### 5. Click **Generate Reviews** for showing all the text reviews and **Generate Sentiment** for showing the sentiment result.
 
-!![Screenshot 2025-01-19 100537](https://github.com/user-attachments/assets/2108b2b1-0d8c-4058-9a61-cbcdc84d093a)
+![Screenshot 2025-01-19 100537](https://github.com/user-attachments/assets/2108b2b1-0d8c-4058-9a61-cbcdc84d093a)
 
