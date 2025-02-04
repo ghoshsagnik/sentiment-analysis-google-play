@@ -2,9 +2,9 @@
 
 ### IF THIS ERROR OCCURS
 
-```python pip install --upgrade tensorflow transformers```
+```pip install --upgrade tensorflow transformers```
 
-``` python pip uninstall keras tensorflow tensorflow-cpu keras-nightly keras-preprocessing -y```
+```pip uninstall keras tensorflow tensorflow-cpu keras-nightly keras-preprocessing -y```
 
 ```pip install tensorflow```
 
