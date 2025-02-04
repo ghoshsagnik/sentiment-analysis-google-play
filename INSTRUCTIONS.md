@@ -10,20 +10,10 @@
   ```
 ### 2. Running the flask app and Using the public URL
 - **Run the Flask App**
-```python
-Device set to use cpu
- * Serving Flask app '__main__'
- * Debug mode: off
-INFO:werkzeug:WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
- * Running on http://127.0.0.1:5000
-INFO:werkzeug:Press CTRL+C to quitDevice set to use cpu
- * Serving Flask app '__main__'
- * Debug mode: off
-INFO:werkzeug:WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
- * Running on http://127.0.0.1:5000
-INFO:werkzeug:Press CTRL+C to quit
-```
+  After installing libraries the execution continues to run and this shows
+  [Screenshot 2025-02-04 205744](https://github.com/user-attachments/assets/900d6cc3-131f-4803-97fe-fda7c2a53d15)
 
+- **Copy the ```python ```**
 
 - 
 
