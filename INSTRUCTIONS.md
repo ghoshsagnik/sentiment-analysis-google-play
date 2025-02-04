@@ -1,6 +1,6 @@
 # Requirements
 
-### 1. Create an Ngrok account and using Authentication key
+### 1. Creating an Ngrok account and using Authentication key
 - **SignUp on https://ngrok.com/**
 - **This will give an authentication key**
 - **Paste the Authentication Key in Backend Flask App/Google_play_sentiment_analysis.ipynb**
