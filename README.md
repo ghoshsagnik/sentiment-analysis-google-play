@@ -48,4 +48,4 @@ This application consists of two components:
 This project leverages ML, web scraping, and web development to automate review sentiment analysis. Future improvements may include scalability enhancements and multilingual support.
 
 ## Important Note
-Kindly read the Instructions to run.md before doing any coding.
+Kindly read the Instructions to Run.md before doing any coding.
